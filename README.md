@@ -1,6 +1,7 @@
 # My Educational Implementation of GBM
 
 In this project, I implemented a decision tree, Gradient Boosting Machine (GBM), and several loss functions such as MSE and LogLoss from scratch using numpy
+The model was trained and evaluated on a synthetic dataset generated using `sklearn.datasets.make_classification`.
 ```Python
 Accuracy of DecisionTree on training data: 0.9500
 Accuracy of My_GBM on training data: 1.0000
